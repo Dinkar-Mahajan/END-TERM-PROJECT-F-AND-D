@@ -1,0 +1,63 @@
+[
+    {"regNo":"23","name":"Amit Kumar","address":"Ranchi","age":"24","qualification":"B.E","Occupation":"System Engineer","email":"amit3kmr@gmail.com","contact":"1131145"},
+    {
+        "regNo": "23",
+        "name": "Amit Kumar",
+        "address": "Ranchi",
+        "age": "24",
+        "qualification": "B.E",
+        "Occupation": "System Engineer",
+        "email": "amit3kmr@gmail.com",
+        "contact": "1131145"
+    },
+    {
+        "regNo": "23",
+        "name": "Amit Kumar",
+        "address": "Ranchi",
+        "age": "24",
+        "qualification": "B.E",
+        "Occupation": "System Engineer",
+        "email": "amit3kmr@gmail.com",
+        "contact": "1131145"
+    },
+    {
+        "regNo": "23",
+        "name": "Sambhav",
+        "address": "Ranchi",
+        "age": "24",
+        "qualification": "B.E",
+        "Occupation": "System Engineer",
+        "email": "amit3kmr@gmail.com",
+        "contact": "1131145"
+    },
+    {
+        "regNo": "23",
+        "name": "Abhinav",
+        "address": "Ranchi",
+        "age": "24",
+        "qualification": "B.E",
+        "Occupation": "System Engineer",
+        "email": "amit3kmr@gmail.com",
+        "contact": "1131145"
+    },
+    {
+        "regNo": "23",
+        "name": "Amit",
+        "address": "Ranchi",
+        "age": "24",
+        "qualification": "B.E",
+        "Occupation": "System Engineer",
+        "email": "amit3kmr@gmail.com",
+        "contact": "1131145"
+    },
+    {
+        "regNo": "23",
+        "name": "Kumar",
+        "address": "Ranchi",
+        "age": "24",
+        "qualification": "B.E",
+        "Occupation": "System Engineer",
+        "email": "amit3kmr@gmail.com",
+        "contact": "1131145"
+    }
+]
